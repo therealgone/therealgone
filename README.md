@@ -52,18 +52,4 @@ I’m a  **Student at SRM KTR** 💻, working on exciting projects in **Web Deve
 - [LinkedIn Profile](https://www.linkedin.com/in/jeevan-baabu-97a19125b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
-
-## 🌱 Currently Learning
-
-I'm continuously learning new technologies and deepening my understanding of Machine Learning, Web Development, and Cloud technologies. 🚀
-
----
-
-
-## 🙋‍♂️ Fun Facts
-- I’m currently working towards building an AI-powered solution that can help people understand complex medical data. 💡
-- I love gaming 🎮 and optimizing systems for the best performance! 🚀
-
----
-
 Let's Connect & Build Something Amazing! ✨
