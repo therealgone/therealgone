@@ -59,7 +59,7 @@ I’m a  **Student at SRM KTR** 💻, working on exciting projects in **Web Deve
 
 ## 🚀 GitHub Stats
 
-![Jeevan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeevanbaabu&show_icons=true&hide_title=true&hide=prs)
+![Jeevan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=therealgone&show_icons=true&hide_title=true&hide=prs)
 
 
 ---
