@@ -1,8 +1,4 @@
 # Hi, I'm Jeevan Baabu Murugan 👋
-
-![Profile Views](https://komarev.com/ghpvc/?username=jeevanbaabu&label=Profile%20Views)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/jeevan-baabu-97a19125b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
 I’m a  **Student at SRM KTR** 💻, working on exciting projects in **Web Development**, **Machine Learning**, and **Cloud Technologies**. I love to explore new technologies, optimize systems, and solve complex problems!
 
 ---
@@ -54,13 +50,6 @@ I’m a  **Student at SRM KTR** 💻, working on exciting projects in **Web Deve
 
 - Email: [jeevanbaabu03@gmail.com](mailto:jeevanbaabu03@gmail.com)
 - [LinkedIn Profile](https://www.linkedin.com/in/jeevan-baabu-97a19125b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
----
-
-## 🚀 GitHub Stats
-
-![Jeevan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=therealgone&show_icons=true&hide_title=true&hide=prs)
-
 
 ---
 
