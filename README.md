@@ -1,5 +1,5 @@
-# Hi, I'm 
-👋
+# Hi, I'm 👋
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&center=true&vCenter=true&width=1000&size=30&lines=Jeevan+Baabu+Murugan)](https://git.io/typing-svg)
 
 I’m a  **Student at SRM KTR** 💻, working on exciting projects in **Web Development**, **Machine Learning**, and **Cloud Technologies**. I love to explore new technologies, optimize systems, and solve complex problems!
