@@ -34,7 +34,7 @@ I’m a  **Student at SRM KTR** 💻, working on exciting projects in **Web Deve
 
 ---
 
-## 📧 Contact Me
+## <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="40" /> Contact Me
 
 - Email: [jeevanbaabu03@gmail.com](mailto:jeevanbaabu03@gmail.com)
 - [LinkedIn Profile](https://www.linkedin.com/in/jeevan-baabu-97a19125b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
