@@ -4,7 +4,6 @@
 ---
 I’m a  **Student at SRM KTR** 💻
 - **Btech CSE AI ML**
-- working on exciting projects in **Web Development**, **Machine Learning**, and **Cloud Technologies**.
 ---
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
